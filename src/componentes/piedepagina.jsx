@@ -5,14 +5,14 @@ import { PiCopyrightBold } from "react-icons/pi"
 
 function Piedepagina () {
   return (
-    <div className="container-fluid" style={{ backgroundColor: '#A8D5D8' }}>
+    <div className="container-fluid" style={{ backgroundColor: '#f2f2f2' }}>
       <div className="row mx-auto">
         <div className="text-center pt-5 mx-auto">
           <h2 className="encabezado" >Califica a tus docentes</h2>
           <img src={logos} alt="pdp" width="100"/>
-          <p className="px-3"><small>¿Eres estudiante?, Ayuda a las Instituciones Educativas a darse cuenta de los malos profesores que hay dentro de ellas</small></p>
+          <p className="px-3"><small>¿Eres estudiante?, ayuda a las Instituciones Educativas a darse cuenta de los malos profesores que hay dentro de ellas.</small></p>
           <section>
-            <button className="btn btn-success">Instalar ARD</button>
+            <button className="btn btn-success" style={{ backgroundColor: '#2c4d80' }}>Instalar ARD</button>
           </section>
           <div id="copyright">
             <hr/>

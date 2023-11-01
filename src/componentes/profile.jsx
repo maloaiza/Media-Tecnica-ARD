@@ -27,23 +27,23 @@ function Profile() {
                 <ul className="list-group list-group-flush rounded-3">
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <RiGlobalFill/>
-                    <p className="mb-0">@dalongri</p>
+                    <p className="mb-0" style={{ backgroundColor: '#DADDDC' }}>@dalongri</p>
                   </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <BsGithub/>
-                    <p className="mb-0">dalongri</p>
+                    <p className="mb-0" style={{ backgroundColor: '#DADDDC' }}>dalongri</p>
                   </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <IoLogoTwitter/>
-                    <p className="mb-0">Facebook</p>
+                    <p className="mb-0" style={{ backgroundColor: '#DADDDC' }}>Facebook</p>
                   </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <BsInstagram/>
-                    <p className="mb-0">Instagram</p>
+                    <p className="mb-0" style={{ backgroundColor: '#DADDDC' }}>Instagram</p>
                   </li>
                   <li className="list-group-item d-flex justify-content-between align-items-center p-3">
                     <BsFacebook/>
-                    <p className="mb-0">Pagina Personal</p>
+                    <p className="mb-0" style={{ backgroundColor: '#DADDDC' }}>Pagina Personal</p>
                   </li>
                 </ul>
               </div>

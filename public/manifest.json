@@ -1,0 +1,56 @@
+{
+  "short_name": "ARD",
+  "name": "Aplicacion de Reseñas a Docentes",
+  "description": "ARD es la aplicación numero 1 de educación Online en todo latinoamerica, ¿Que esperas para ser parte de esta?",
+  "background_color": "#ffffff",
+  "theme_color": "#ebf3ff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    
+    {
+      "src": "./img/icono_32.png",
+      "sizes": "32x32",
+      "type": "icono_32/png"
+    },
+    {
+      "src": "./img/icono_48.png",
+      "type": "icono_48/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./img/icono_64.png",
+      "type": "icono_64/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/icono_72.png",
+      "type": "icono_72/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./img/icono_96.png",
+      "type": "icono_96/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./img/icono_128.png",
+      "type": "icono_128//png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/icono_256.png",
+      "type": "icono_256/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/icono.png",
+      "type": "icono/png",
+      "sizes": "512x512"
+    },
+    
+  ]
+}

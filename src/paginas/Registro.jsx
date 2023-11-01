@@ -1,6 +1,8 @@
 import React from "react";
 import Menu2 from "../componentes/menu2";
 import Singin from '../componentes/singin';
+import FormularioRegistro from "../componentes/FormularioRegistro";   
+  
 
 function Registro(){
   return (

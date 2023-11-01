@@ -40,10 +40,10 @@ function Menu() {
       </div>
       <div className="p-3">
         <div className="card" style={{ backgroundColor: '#A8D5D8' }}>
-         
-          <div className="card-body">
-            <h1 className="encabezado">¡CALIFICA Y OPINA SOBRE LOS DOCENTES DE TU INSTITUCION!</h1>
+
           
+          <div className="card-body">
+            <h1 className="encabezado align-center">¡CALIFICA Y OPINA SOBRE LOS DOCENTES DE TU INSTITUCION!</h1>
           </div>
         </div>
       </div>

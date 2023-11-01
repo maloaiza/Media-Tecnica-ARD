@@ -7,30 +7,30 @@ function Singin() {
       <div className="row">
         <div className="text-center mx-auto">
           <h1>REGISTRATE</h1>
-          <p>Graduate como bachiller teniendo una formación en mediatecnica</p>
+          <p>Registrate para poder iniciar sesión y poder realizar tus reseñas de forma segura.</p>
         </div>
 
           <div className="container pb-3">
             <form className="row g-3" action="/HomeL" method="get">
               <div className="col-md-6">
                 <label htmlFor="inputEmail4" className="form-label">Correo</label>
-                <input type="email" className="form-control" id="inputEmail4"/>
+                <input type="email" className="form-control" id="inputEmail4" placeholder="example@gmail.com"/>
               </div>
               <div className="col-md-6">
                 <label htmlFor="inputPassword4" className="form-label">Contraseña</label>
-                <input type="password" className="form-control" id="inputPassword4"/>
+                <input type="password" className="form-control" id="inputPassword4"placeholder="*********"/>
               </div>
               <div className="col-12">
                 <label htmlFor="inputAddress" className="form-label">Direccion</label>
-                <input type="text" className="form-control" id="inputAddress" placeholder="1234 Main St"/>
+                <input type="text" className="form-control" id="inputAddress" placeholder="Cra *** Cl #** Barrio ****"/>
               </div>
               <div className="col-12">
                 <label htmlFor="inputAddress2" className="form-label">Complemento</label>
-                <input type="text" className="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor"/>
+                <input type="text" className="form-control" id="inputAddress2" placeholder="Apartamento, estudio, piso, etc"/>
               </div>
               <div className="col-md-6">
                 <label htmlFor="inputCity" className="form-label">Ciudad</label>
-                <input type="text" className="form-control" id="inputCity"/>
+                <input type="text" className="form-control" id="inputCity" placeholder="Medellín, Bogotá, Barranquilla, Manizales, Pereira, etc"/>
               </div>
               <div className="col-md-4">
                 <label htmlFor="inputState" className="form-label">Departamento</label>
@@ -59,7 +59,7 @@ function Singin() {
               
               <div className="col-md-2">
                 <label htmlFor="input" className="form-label">Ocupacion</label>
-                <input type="text" className="form-control" id="input"/>
+                <input type="text" className="form-control" id="input" placeholder="Docente o estudiante"/>
               </div>
               <div className="col-12">
                 <div className="form-check">
